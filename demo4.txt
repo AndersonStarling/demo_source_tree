@@ -1,2 +1,3 @@
 Update process 66%
 Fix demo 4
+- Test func need updated data from task 3 and task 4
