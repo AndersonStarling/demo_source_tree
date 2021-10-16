@@ -1,3 +1,4 @@
 update content demo2
 update processing 60%
 Fix demo 2
+support function for task 5 test
